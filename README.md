@@ -5,4 +5,5 @@
 2. Create Spark DataFrames using Parquet files
 3. Use cloud storage as output of Spark jobs
 
-![img](https://github.com/bsathyamur/EquityMarketDataAnalysis-Capstone/blob/main/EMDA-Architecture%20Diagram.jpg)
+## Output
+![img](https://github.com/bsathyamur/spark-ProcessData/blob/main/pic-out.png)
